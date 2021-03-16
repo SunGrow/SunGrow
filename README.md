@@ -4,6 +4,4 @@ Location: Kaliningrad, Kaliningrad Oblast, Russia
 
 ## About
 
-Graphics Engineer wannabe on his way to a Bachelor degree in CS
-
-Like to shitpost garbage code
+Sleep is a luxury good. Let me have some
