@@ -1,7 +1,7 @@
-# Lev Denisovich Polyakov
+# Lev Poliakov
 
-Location: Kaliningrad, Kaliningrad Oblast, Russia
+Location: Budva, Montenegro
 
 ## About
 
-Programmer at Veom Studio
+Game Programmer
